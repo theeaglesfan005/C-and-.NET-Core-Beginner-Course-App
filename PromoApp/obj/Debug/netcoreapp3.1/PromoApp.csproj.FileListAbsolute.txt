@@ -1,0 +1,11 @@
+/Users/theeaglesfan005/PromoApp/bin/Debug/netcoreapp3.1/PromoApp
+/Users/theeaglesfan005/PromoApp/bin/Debug/netcoreapp3.1/PromoApp.deps.json
+/Users/theeaglesfan005/PromoApp/bin/Debug/netcoreapp3.1/PromoApp.runtimeconfig.json
+/Users/theeaglesfan005/PromoApp/bin/Debug/netcoreapp3.1/PromoApp.runtimeconfig.dev.json
+/Users/theeaglesfan005/PromoApp/bin/Debug/netcoreapp3.1/PromoApp.dll
+/Users/theeaglesfan005/PromoApp/bin/Debug/netcoreapp3.1/PromoApp.pdb
+/Users/theeaglesfan005/PromoApp/obj/Debug/netcoreapp3.1/PromoApp.csprojAssemblyReference.cache
+/Users/theeaglesfan005/PromoApp/obj/Debug/netcoreapp3.1/PromoApp.AssemblyInfoInputs.cache
+/Users/theeaglesfan005/PromoApp/obj/Debug/netcoreapp3.1/PromoApp.AssemblyInfo.cs
+/Users/theeaglesfan005/PromoApp/obj/Debug/netcoreapp3.1/PromoApp.dll
+/Users/theeaglesfan005/PromoApp/obj/Debug/netcoreapp3.1/PromoApp.pdb
